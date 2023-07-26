@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: aquamarine;
+    color:gray;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+ }
+
+.formulario-principal{
+    background-color: beige;
+    width:80%;
+    display: flex;
+    justify-content: center;
+    padding:25px;
+}
+
+.formulario-principal label{
+    margin:5px;
+}
+
+.formulario-principal button{
+    margin-left: 5px;
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color:white;
+    border:0px;
+}
+
+table{
+    width:70%;
+    margin:20px auto;
+    background-color: beige;
+}
+
+table td{
+    border:1px solid white;
+    padding:8px;
+    text-align: center;
+
+}
