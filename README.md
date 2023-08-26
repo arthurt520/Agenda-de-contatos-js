@@ -1,4 +1,4 @@
-# Projeto EBAC - Agenda de contatos
+# 📒 Projeto EBAC - Agenda de contatos
 
 ## Esse projeto foi desenvolvido pela orientação de um exercício na plataforma da EBAC: https://ebaconline.com.br/
 
