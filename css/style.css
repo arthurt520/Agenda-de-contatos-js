@@ -61,6 +61,7 @@ table td{
     justify-content: center;
     flex-direction:column;
     padding:40px; 
+    margin:0 auto;
    }
     .formulario-principal input{
         padding:5px;
