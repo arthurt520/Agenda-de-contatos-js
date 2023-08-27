@@ -62,7 +62,7 @@ table td{
     flex-direction:column;
     padding:40px; 
    }
-    .formulario-principal label{
+    .formulario-principal input{
         padding:5px;
         margin-bottom:3px;
         width:80%;
