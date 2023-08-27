@@ -55,7 +55,7 @@ table td{
 @media (min-width:480px) and (max-width:780px){
     
 .formulario-principal{
-    background-color: blue;
+    background-color: beige;
     width:100%;
     display: flex;
     justify-content: center;
