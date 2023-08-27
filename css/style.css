@@ -62,6 +62,7 @@ table td{
     flex-direction:column;
     padding:0px; 
     margin:0 auto;
+    border:1px solid red;
    }
     .formulario-principal input{
         padding:5px;
