@@ -56,10 +56,15 @@ table td{
     
 .formulario-principal{
     background-color: beige;
-    width:50%;
+    width:100%;
     display: flex;
     justify-content: center;
     padding:25px;
+    
 }
+
+    .formulario-principal label{
+    margin:0px;
+    }
 }
-}
+
