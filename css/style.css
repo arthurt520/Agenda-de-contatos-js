@@ -50,7 +50,7 @@ table{
 table td{
     border:1px solid white;
     padding:8px;
-    text-align: center;
+    text-align: center;}
     
 @media (min-width:480px) and (max-width:780px){
     
@@ -62,7 +62,6 @@ table td{
     padding:25px;
     
 }
-
     .formulario-principal label{
     margin:0px;
     }
