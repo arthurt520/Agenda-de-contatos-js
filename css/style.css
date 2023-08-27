@@ -51,5 +51,15 @@ table td{
     border:1px solid white;
     padding:8px;
     text-align: center;
-
+    
+@media (min-width:480px) and (max-width:780px){
+    
+.formulario-principal{
+    background-color: beige;
+    width:50%;
+    display: flex;
+    justify-content: center;
+    padding:25px;
+}
+}
 }
