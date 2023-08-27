@@ -16,7 +16,6 @@ header{
 main{
     display: flex;
     justify-content: center;
-    align-items:center;
  }
 
 .formulario-principal{
@@ -61,7 +60,7 @@ table td{
     display: flex;
     justify-content: center;
     flex-direction:column;
-    padding:40px; 
+    padding:0px; 
     margin:0 auto;
    }
     .formulario-principal input{
