@@ -60,21 +60,22 @@ table td{
     display: flex;
     justify-content: center;
     flex-direction:column;
-    padding:40px;
-    
-}
+    padding:40px; 
+   }
     .formulario-principal label{
     margin:0px;
     }
+    
     .formulario-principal button{
-    margin-left: 5px;
+    margin-top:10px;
     background-color: blueviolet;
-    padding:1px;
+    padding:8px;
     border-radius: 5px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
     color:white;
     border:0px;
+    width:50px;
 }
 }
 
