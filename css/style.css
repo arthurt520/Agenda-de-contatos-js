@@ -67,7 +67,7 @@ table td{
     }
     
     .formulario-principal button{
-    margin-top:10px;
+    margin:10 auto;
     background-color: blueviolet;
     padding:8px;
     border-radius: 5px;
