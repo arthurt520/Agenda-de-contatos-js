@@ -80,5 +80,15 @@ table td{
     border:0px;
     width:80%;
 }
+    table{
+    width:70%;
+    margin:20px auto;
+    background-color: beige;
+}
+
+table td{
+    border:1px solid white;
+    padding:2px;
+    text-align: center;}
 }
 
