@@ -53,7 +53,15 @@ table td{
     text-align: center;}
     
 @media (max-width:480px){
-    
+header{
+    background-color: aquamarine;
+    color:gray;
+    display: flex;
+    justify-content: center;
+    padding:10px;
+    margin-bottom: 5px;
+    width:100%;
+}
 .formulario-principal{
     background-color: beige;
     width:80%;
